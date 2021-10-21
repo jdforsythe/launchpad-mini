@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open --https"
+    "start": "parcel src/index.html --open --https"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "parcel": "^2.0.0"
   },
