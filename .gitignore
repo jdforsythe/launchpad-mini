@@ -61,3 +61,5 @@ generated
 .nycrc
 !.gitmodules
 !.travis.yml
+
+.parcel-cache/
